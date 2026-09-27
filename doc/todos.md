@@ -1,0 +1,8 @@
+- [x] Leer elkaar kennen (dev + ops)
+- [x] Lees alle info op Orion
+- [x] Kies cloud-platform - [gebruikte-cloud](gebruikte-cloud.md)
+- [x] Probeer template-app RISE in een VM te draaien
+- [ ] Vragen voor begeleiders? Klanten?
+	- Zie NDA
+	- Template github? 
+	- Wanneer Kanban?
