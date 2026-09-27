@@ -1,0 +1,10 @@
+- name: app-server
+  box: bento/almalinux-10
+  intnet: false
+  forwarded_ports:
+    - guest: 5000
+      host: 5000
+    - guest: 5001
+      host: 5001
+  memory: 2048
+  cpus: 1
